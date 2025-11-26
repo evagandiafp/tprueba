@@ -2,4 +2,5 @@ mesa
 silla
 perchas
 perchero
-ssillon
+sillon
+lampara
